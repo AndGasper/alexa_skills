@@ -1,0 +1,24 @@
+{
+  "name": "alexaSkills",
+  "version": "1.0.0",
+  "description": "Alexa Skills Learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndGasper/alexa_skills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndGasper/alexa_skills/issues"
+  },
+  "homepage": "https://github.com/AndGasper/alexa_skills#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.9",
+    "express": "^4.15.3"
+  }
+}
