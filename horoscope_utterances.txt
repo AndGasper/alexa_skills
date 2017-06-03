@@ -1,0 +1,5 @@
+GetHoroscope what is the horoscope for {Sign}
+GetHoroscope what will be the horoscope for {Sign} on {Date}
+GetHoroscope {Sign}
+GetHoroscope what is the horoscope for {Sign} using sarcastic horoscope
+

@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.ResumeIntent"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "GetHoroscope",
+      "slots": [
+        {
+          "name": "Sign",
+          "type": "LIST_OF_SIGNS"
+        },
+        {
+          "name": "Date",
+          "type": "AMAZON.DATE"
+        }
+      ]
+    }
+  ]
+}
